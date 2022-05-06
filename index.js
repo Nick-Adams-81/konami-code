@@ -2,7 +2,7 @@
 
 // sound variables
 var sound = new Audio('audio/cookie-down.mp3');
-var soundEffect = new Audio('click.wav');
+var soundEffect = new Audio('audio/click.wav');
 
 // adding sound effect to button 1 hover
 $('#btn-1').hover(function() {
